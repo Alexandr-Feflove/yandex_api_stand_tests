@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.b" />
+          <option value="main.in_autotests_we_trust" />
+          <option value="main.a" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
